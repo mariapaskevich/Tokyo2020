@@ -1,0 +1,181 @@
+Team/NOC,NOCCode,Medal type,count_female,count_male
+United States,USA,Gold,23,16
+United States,USA,Silver,22,15
+United States,USA,Bronze,21,10
+China,CHN,Gold,22,13
+China,CHN,Silver,16,13
+China,CHN,Bronze,9,9
+Japan,JPN,Gold,14,12
+Japan,JPN,Silver,8,5
+Japan,JPN,Bronze,8,8
+Australia,AUS,Gold,10,7
+Australia,AUS,Silver,3,3
+Australia,AUS,Bronze,9,10
+ROC,RUS,Gold,9,10
+ROC,RUS,Silver,15,11
+ROC,RUS,Bronze,8,14
+Great Britain,GBR,Gold,6,12
+Great Britain,GBR,Silver,7,12
+Great Britain,GBR,Bronze,10,10
+New Zealand,NZL,Gold,6,1
+New Zealand,NZL,Silver,3,3
+New Zealand,NZL,Bronze,2,5
+Canada,CAN,Gold,5,2
+Canada,CAN,Silver,5,1
+Canada,CAN,Bronze,8,3
+Netherlands,NED,Gold,5,5
+Netherlands,NED,Silver,4,7
+Netherlands,NED,Bronze,12,1
+Germany,GER,Gold,4,3
+Germany,GER,Silver,3,7
+Germany,GER,Bronze,5,9
+Brazil,BRA,Gold,3,4
+Brazil,BRA,Silver,4,2
+Brazil,BRA,Bronze,2,6
+Switzerland,SUI,Gold,3,0
+Switzerland,SUI,Silver,3,1
+Switzerland,SUI,Bronze,4,2
+Jamaica,JAM,Gold,3,1
+Jamaica,JAM,Silver,1,0
+Jamaica,JAM,Bronze,3,1
+France,FRA,Gold,2,7
+France,FRA,Silver,8,4
+France,FRA,Bronze,5,4
+Italy,ITA,Gold,2,7
+Italy,ITA,Silver,3,7
+Italy,ITA,Bronze,10,10
+Republic of Korea,KOR,Gold,2,3
+Republic of Korea,KOR,Silver,3,1
+Republic of Korea,KOR,Bronze,3,7
+Kenya,KEN,Gold,2,2
+Kenya,KEN,Silver,2,2
+Kenya,KEN,Bronze,1,1
+Serbia,SRB,Gold,2,1
+Serbia,SRB,Silver,0,1
+Serbia,SRB,Bronze,2,3
+Belgium,BEL,Gold,2,1
+Belgium,BEL,Silver,0,1
+Belgium,BEL,Bronze,0,2
+Poland,POL,Gold,1,2
+Poland,POL,Silver,5,0
+Poland,POL,Bronze,2,3
+Spain,ESP,Gold,1,1
+Spain,ESP,Silver,4,4
+Spain,ESP,Bronze,1,5
+Chinese Taipei,TPE,Gold,1,1
+Chinese Taipei,TPE,Silver,1,3
+Chinese Taipei,TPE,Bronze,4,1
+Hungary,HUN,Gold,1,5
+Hungary,HUN,Silver,1,6
+Hungary,HUN,Bronze,3,4
+Denmark,DEN,Gold,1,2
+Denmark,DEN,Silver,1,3
+Denmark,DEN,Bronze,3,1
+Turkey,TUR,Gold,1,1
+Turkey,TUR,Silver,1,1
+Turkey,TUR,Bronze,3,6
+Austria,AUT,Gold,1,0
+Austria,AUT,Silver,1,0
+Austria,AUT,Bronze,2,3
+Czech Republic,CZE,Gold,1,3
+Czech Republic,CZE,Silver,1,3
+Czech Republic,CZE,Bronze,0,3
+Slovenia,SLO,Gold,1,2
+Slovenia,SLO,Silver,1,0
+Slovenia,SLO,Bronze,0,1
+Ecuador,ECU,Gold,1,1
+Ecuador,ECU,Silver,1,0
+Ecuador,ECU,Bronze,0,0
+Romania,ROU,Gold,1,0
+Romania,ROU,Silver,1,2
+Romania,ROU,Bronze,0,0
+Philippines,PHI,Gold,1,0
+Philippines,PHI,Silver,1,1
+Philippines,PHI,Bronze,0,1
+Egypt,EGY,Gold,1,0
+Egypt,EGY,Silver,0,1
+Egypt,EGY,Bronze,2,2
+Ireland,IRL,Gold,1,1
+Ireland,IRL,Silver,0,0
+Ireland,IRL,Bronze,1,1
+Israel,ISR,Gold,1,1
+Israel,ISR,Silver,0,0
+Israel,ISR,Bronze,1,0
+Indonesia,INA,Gold,1,0
+Indonesia,INA,Silver,0,1
+Indonesia,INA,Bronze,1,2
+Croatia,CRO,Gold,1,2
+Croatia,CRO,Silver,0,3
+Croatia,CRO,Bronze,0,2
+Uganda,UGA,Gold,1,1
+Uganda,UGA,Silver,0,1
+Uganda,UGA,Bronze,0,1
+Bahamas,BAH,Gold,1,1
+Bahamas,BAH,Silver,0,0
+Bahamas,BAH,Bronze,0,0
+Venezuela,VEN,Gold,1,0
+Venezuela,VEN,Silver,0,3
+Venezuela,VEN,Bronze,0,0
+Slovakia,SVK,Gold,1,0
+Slovakia,SVK,Silver,0,2
+Slovakia,SVK,Bronze,0,1
+Ukraine,UKR,Gold,0,1
+Ukraine,UKR,Silver,3,3
+Ukraine,UKR,Bronze,8,3
+Sweden,SWE,Gold,0,2
+Sweden,SWE,Silver,3,2
+Sweden,SWE,Bronze,0,0
+"Hong Kong, China",HKG,Gold,0,1
+"Hong Kong, China",HKG,Silver,2,0
+"Hong Kong, China",HKG,Bronze,3,0
+Belarus,BLR,Gold,0,1
+Belarus,BLR,Silver,2,1
+Belarus,BLR,Bronze,2,1
+Colombia,COL,Gold,0,0
+Colombia,COL,Silver,2,2
+Colombia,COL,Bronze,0,1
+India,IND,Gold,0,1
+India,IND,Silver,1,1
+India,IND,Bronze,2,2
+Azerbaijan,AZE,Gold,0,0
+Azerbaijan,AZE,Silver,1,2
+Azerbaijan,AZE,Bronze,2,2
+Cuba,CUB,Gold,0,7
+Cuba,CUB,Silver,1,2
+Cuba,CUB,Bronze,1,4
+Dominican Rep.,DOM,Gold,0,0
+Dominican Rep.,DOM,Silver,1,1
+Dominican Rep.,DOM,Bronze,1,1
+Kyrgyzstan,KGZ,Gold,0,0
+Kyrgyzstan,KGZ,Silver,1,1
+Kyrgyzstan,KGZ,Bronze,1,0
+Portugal,POR,Gold,0,1
+Portugal,POR,Silver,1,0
+Portugal,POR,Bronze,0,2
+Argentina,ARG,Gold,0,0
+Argentina,ARG,Silver,1,0
+Argentina,ARG,Bronze,0,2
+Ethiopia,ETH,Gold,0,1
+Ethiopia,ETH,Silver,0,1
+Ethiopia,ETH,Bronze,2,0
+Mongolia,MGL,Gold,0,0
+Mongolia,MGL,Silver,0,1
+Mongolia,MGL,Bronze,2,1
+Kazakhstan,KAZ,Gold,0,0
+Kazakhstan,KAZ,Silver,0,0
+Kazakhstan,KAZ,Bronze,2,6
+Mexico,MEX,Gold,0,0
+Mexico,MEX,Silver,0,0
+Mexico,MEX,Bronze,2,1
+Norway,NOR,Gold,0,4
+Norway,NOR,Silver,0,2
+Norway,NOR,Bronze,1,1
+Fiji,FIJ,Gold,0,1
+Fiji,FIJ,Silver,0,0
+Fiji,FIJ,Bronze,1,0
+San Marino,SMR,Gold,0,0
+San Marino,SMR,Silver,0,0
+San Marino,SMR,Bronze,1,1
+Finland,FIN,Gold,0,0
+Finland,FIN,Silver,0,0
+Finland,FIN,Bronze,1,1
