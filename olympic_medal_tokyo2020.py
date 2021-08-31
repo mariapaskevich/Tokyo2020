@@ -32,15 +32,14 @@ def draw_map(mtype='Total'):
 
     source = alt.topo_feature(data.world_110m.url, "countries")
 
-    background = alt.Chart(source).mark_geoshape(fill="white")
-
-    foreground = (
+    world_map = (
         alt.Chart(source, title=f'Countries by number of {mtype} medals')
         .mark_geoshape(stroke="black", strokeWidth=0.15)
         .encode(
             color=alt.Color(
-                "Medals:N", scale=alt.Scale(scheme=COLOR_THEME[mtype]), legend=None
-            ),
+                "Medals:N", 
+                scale=alt.Scale(scheme=COLOR_THEME[mtype]), 
+                legend=None),
             tooltip=[
                 alt.Tooltip("Team/NOC:N", title="Team"),
                 alt.Tooltip("Medals:Q", title="Medals"),
@@ -50,21 +49,14 @@ def draw_map(mtype='Total'):
             lookup="id",
             from_=alt.LookupData(olympic_medal_map, "id", ["Team/NOC", "Medals"]),
         )
-    )
-
-    final_map = (
-        (background + foreground)
-        .configure_view(strokeWidth=0)
-        .properties(width=600, height=400)
-        .project("naturalEarth1")
-    )
+    ).configure_view(strokeWidth=0).properties(width=700, height=400).project("naturalEarth1")
     
-    return final_map
+    return world_map
 
 ### Medals by gender
 
 def medals_by_gender(countries=['Japan']):
-    chart = alt.Chart(medal_count_by_gender.loc[(medal_count_by_gender['Medal type'] != 'Total')&(medal_count_by_gender['Team/NOC'].isin(COUNTRY))], title='Total medals earned by female and male athlets').mark_circle(size=300).encode(
+    chart = alt.Chart(medal_count_by_gender.loc[(medal_count_by_gender['Team/NOC'].isin(countries))], title='Total medals earned by female and male athlets').mark_circle(size=300).encode(
         x=alt.X('count_male', title='Male Athlets'),
         y=alt.Y('count_female', title='Female Athlets'),
         color=alt.Color('Medal type',
